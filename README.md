@@ -1,5 +1,5 @@
-![logo]([https://https://github.com/MananSharma-git/MananSharma-git/blob/main/manan%20sharma.png](https://github.com/MananSharma-git/MananSharma-git/blob/main/manan%20sharma.png))
-<h1 align="center">Hi 👋, I'm Sameer Malik</h1>
+![logo]())
+<h1 align="center">Hi 👋, I'm Manan Sharma</h1>
 <h3 align="center">A passionate web developer from 
 India</h3>
 <img align="right" alt="coding" width="600" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
