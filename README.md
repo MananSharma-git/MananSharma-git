@@ -1,4 +1,4 @@
-![logo]())
+![logo](https://github.com/MananSharma-git/MananSharma-git/blob/main/manan%20sharma.png)
 <h1 align="center">Hi 👋, I'm Manan Sharma</h1>
 <h3 align="center">A passionate web developer from 
 India</h3>
