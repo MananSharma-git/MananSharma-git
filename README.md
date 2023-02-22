@@ -1,4 +1,4 @@
-![logo](https://github.com/Sameer-Malik-git/Sameer-Malik-git/blob/main/sameer%20backg.png)
+![logo](https://https://github.com/MananSharma-git/MananSharma-git/blob/main/manan%20sharma.png)
 <h1 align="center">Hi 👋, I'm Sameer Malik</h1>
 <h3 align="center">A passionate web developer from 
 India</h3>
