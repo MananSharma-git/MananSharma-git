@@ -13,7 +13,7 @@ India</h3>
 
 - 📫 How to reach me *manansharma850@gmail.com*
 
-- ⚡ Fun fact *I think I am dancer*
+- ⚡ Other Interest *I like Basketball*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
